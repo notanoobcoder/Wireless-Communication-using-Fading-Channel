@@ -1,7 +1,7 @@
 # Wireless-Communication-using-Fading-Channel
 Simulated wireless communication using fading models of the two most prevalent fading distributions:
-- Rayleigh Fading Model
-- Rician Fading Model
+- Rayleigh Fading Distribution
+- Rician Fading Distribution
 
 ## Parameters of Distribution Models:
 - Power Delay Profiles
